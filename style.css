@@ -100,16 +100,7 @@ a:visited{
     padding: 40px;
     margin-top: 40px;
 }
-#main-footer p1{
-     background: black;
-    color: azure;
-    text-align: justify-all;
-    padding: 40px;
-    margin-top: 40px;
-    object-position: center;
-    display: inline;
-    
-}
+
 
 
 @media(max-width:600px){
