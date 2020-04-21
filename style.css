@@ -19,7 +19,7 @@ body{
 #navbar{
     background-color: darkblue;
     color: antiquewhite;
-    border: 10px gold solid;
+    border: 10px red solid;
     
 }
 #navbar h1{
@@ -81,25 +81,43 @@ a:visited{
     border: dotted;
     
 }
-#sidebar{
+
+
+#sidebar p3{
     float: right;
     width: 30%;
     background:brown;
     color: antiquewhite;
     padding: 10px;
     box-sizing: border-box;
-    border-bottom-style:dotted;}
-#image {
-        border-color: aqua;
+    border-bottom-style:dotted;
+
+
 }
 
-#main-footer p{
+
+#main-footer p4{ 
     background: black;
     color: azure;
-    text-align: center;
+    padding: 2;
+    margin-top: 2px;
+    object-position: center;
+    display: block;
+    list-style: inside;
+    }
+
+
+
+
+
+#main-footer { 
+    background: black;
+    color: azure;
     padding: 40px;
-    margin-top: 40px;
-}
+    margin-top: 22px;
+  
+   display: block;
+    }
 
 
 
@@ -111,6 +129,29 @@ a:visited{
     }
    
 }
+
+#style  div{
+    background-color: blue;
+}
+
+.row::after {
+  content: "";
+    width: 30%;
+  clear: both;
+  display: table;
+}
+.column {
+  float: left;
+  width: 33.%;
+  padding: 5px;
+}
+
+
+
+
+
+
+
 
 
 
