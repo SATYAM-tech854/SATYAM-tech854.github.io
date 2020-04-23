@@ -8,23 +8,23 @@ function sum1(){
 }
 
 function setnewimage(){
-  document.getElementById("image").src="css/showcase2.jpg" ;
+  document.getElementById("image").src="showcase2.jpg" ;
 }
 function setoldimage(){
-      document.getElementById("image").src="css/sd.jpg" ;
+      document.getElementById("image").src="sd.jpg" ;
     
 }
 function set2(){
-  document.getElementById("image2").src="css/electronichand600.jpg" ;
+  document.getElementById("image2").src="electronichand600.jpg" ;
 }
 function setoldimage2(){
-      document.getElementById("image2").src="css/4096.jpg" ;
+      document.getElementById("image2").src="4096.jpg" ;
 }
 function set3(){
-  document.getElementById("image3").src="css/robot4.jpg" ;
+  document.getElementById("image3").src="robot4.jpg" ;
 }
 function setoldimage3(){
-      document.getElementById("image3").src="css/sat.jpg" ;
+      document.getElementById("image3").src="sat.jpg" ;
 }
 
 
